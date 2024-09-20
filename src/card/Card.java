@@ -12,6 +12,8 @@ package card;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * @author srinivsi
+ * @modifier Shrey Gondhiya
+ * @studentID 991747149
  */
 public class Card {
 
